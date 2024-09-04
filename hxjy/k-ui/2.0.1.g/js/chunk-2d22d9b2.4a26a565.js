@@ -1,1 +1,0 @@
-(window["webpackJsonp_name_"]=window["webpackJsonp_name_"]||[]).push([["chunk-2d22d9b2"],{f7e0:function(n,a,e){"use strict";e.r(a);e("b0c0");var c=e("b881");c["a"].install=function(n){n.component(c["a"].name,c["a"])},a["default"]=c["a"]}}]);

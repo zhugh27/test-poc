@@ -1,1 +1,0 @@
-(window["webpackJsonp_name_"]=window["webpackJsonp_name_"]||[]).push([["chunk-2d0aada7"],{"137f":function(a,n,c){"use strict";c.r(n);c("b0c0");var e=c("db2a");e["a"].install=function(a){a.component(e["a"].name,e["a"])},n["default"]=e["a"]}}]);

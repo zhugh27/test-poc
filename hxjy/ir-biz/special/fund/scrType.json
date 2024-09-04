@@ -1,1 +1,0 @@
-{"code":0,"msg":null,"data":[{"label":"基金类型(一级)","idx":0,"value":"fundTypeLeve1"},{"label":"基金类型(二级)","idx":1,"value":"fundTypeLeve2"},{"label":"场内/场外","idx":2,"value":"fundOnOff"},{"label":"基金公司","idx":3,"value":"fundCompany"},{"label":"基金经理","idx":4,"value":"fundMgr"}]}

@@ -1,1 +1,0 @@
-{"code":0,"msg":null,"data":[{"LABEL":"全部","VALUE":"ALL","IDX":0},{"LABEL":"存定到期","VALUE":"QCDQ","IDX":1},{"LABEL":"同业存单到期","VALUE":"TYCDDQ","IDX":2},{"LABEL":"债券到期","VALUE":"ZQDQ","IDX":3},{"LABEL":"债券付息","VALUE":"ZQFX","IDX":4},{"LABEL":"正回购到期","VALUE":"ZHGDQ","IDX":5},{"LABEL":"逆回购到期","VALUE":"NHGDQ","IDX":6}]}
