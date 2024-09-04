@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="14px" viewBox="0 0 22 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4备份</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="合并类板块-板块合并" transform="translate(-568.000000, -339.000000)" stroke="#BD1818">
+            <g id="编组-4备份" transform="translate(568.000000, 339.000000)">
+                <circle id="椭圆形备份-3" fill-opacity="0.3" fill="#FFFFFF" cx="15" cy="7" r="6.5"></circle>
+                <circle id="椭圆形备份-2" fill-opacity="0.3" fill="#BD1818" cx="7" cy="7" r="6.5"></circle>
+                <path d="M10.9222909,1.93795837 C12.5229296,3.06966207 13.5,4.92146345 13.5,7 C13.5,9.08096037 12.5220539,10.9334361 11.0008309,12.1228503 C9.47810322,10.933695 8.5,9.08110129 8.5,7 C8.5,4.95434655 9.44504471,3.12948763 10.9222909,1.93795837 Z" id="形状结合" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

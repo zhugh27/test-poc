@@ -1,0 +1,1 @@
+{"code":0,"msg":"查询成功","data":[{"vcCode":"SINGLE_ACCOUNT_INDEPENDENT","vcName":"产品整体层面"},{"vcCode":"SINGLE_ACCOUNT_INDEPENDENT_SINGLE","vcName":"单产品控制单只证券"},{"vcCode":"SINGLE_ACCOUNT_INDEPENDENT_SUMMARY","vcName":"单产品控制证券汇总"},{"vcCode":"MULTIPLE_ACCOUNT_INDEPENDENT_SINGLE","vcName":"多产品联合控制单只证券"},{"vcCode":"MULTIPLE_ACCOUNT_SUMMARY","vcName":"多产品联合控制证券汇总"}]}
